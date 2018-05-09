@@ -1,1 +1,4 @@
-# WordPress Ver2.1 Updated
+#  WordPress Ver2.1 Updated
+# Branching Included
+
+This is new Text  
