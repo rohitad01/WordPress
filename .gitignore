@@ -1,0 +1,4 @@
+#Ignore temp localy 
+tmp/*
+*.tmp
+
